@@ -4,4 +4,5 @@ time.sleep(15)
 f = open("beemovescript.txt", 'r')
 for word in f:
  pyautogui.typewrite(word)
+ print(word)
  pyautogui.press("enter")
