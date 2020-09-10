@@ -1,8 +1,12 @@
+#You need to have pyautogui installed.
 import pyautogui, time
-print("STARTING IN 15 SECONDS! SWITCH TO WHATSAPP WEB!")
-time.sleep(15)
-f = open("beemoviescript.txt", 'r')
-for word in f:
- pyautogui.typewrite(word)
- print(word)
- pyautogui.press("enter")
+
+print("Running... Open WhatsApp Web or other...")
+
+time.sleep(10)
+beemoviescript = open("beemoviescript.txt", 'r')
+
+for word in beemoviescript:
+    pyautogui.typewrite(word)
+    print(word)
+    pyautogui.press("enter")
