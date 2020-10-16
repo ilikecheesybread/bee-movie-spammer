@@ -10,3 +10,4 @@ for word in beemoviescript:
     pyautogui.typewrite(word)
     print(word)
     pyautogui.press("enter")
+    time.sleep(2)
