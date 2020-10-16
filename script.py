@@ -4,7 +4,7 @@ import pyautogui, time
 print("Running... Open WhatsApp Web or other...")
 
 time.sleep(10)
-beemoviescript = open("beemoviescript.txt", 'r')
+beemoviescript = open("source.txt", 'r')
 
 for word in beemoviescript:
     pyautogui.typewrite(word)
