@@ -10,4 +10,4 @@ for word in source:
     pyautogui.typewrite(word)
     print(word)
     pyautogui.press("enter")
-    time.sleep(2)
+    #time.sleep(2)
