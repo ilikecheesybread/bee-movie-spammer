@@ -4,7 +4,7 @@ import pyautogui, time
 print("Running... Open WhatsApp Web or other...")
 
 time.sleep(10)
-source = open("source.txt", 'r')
+source = open("nevergonnagiveyouup.txt", 'r')
 
 for word in source:
     pyautogui.typewrite(word)
