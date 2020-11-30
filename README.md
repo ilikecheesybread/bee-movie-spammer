@@ -11,7 +11,7 @@ FINALLY you've installed it, but now what?
 
 ### Running the software
 
-Right, this should be fairly straightforeward. Just find the program on your disk [usually in the `%PROGRAMDATA%` or `%APPDATA%` folders, just type them directly into the file explorer's address bar] and run `script.py` on Python's IDLE. Wait around 10 seconds (allowing you to open Discord / WhatsApp Desktop) and each line will be typed.
+Right, this should be fairly straightforeward. Just find the program on your disk [usually in the `%PROGRAMDATA%` or `%APPDATA%` folders, just type them directly into the file explorer's address bar]] and run `script.py` on Python's IDLE. Wait around 10 seconds (allowing you to open Discord / WhatsApp Desktop) and each line will be typed.
 
 ### Variables
 
@@ -32,7 +32,6 @@ and change the .txt file. It has been defaulted to Rick Astley's Never gonna giv
 ### Contact
 
 If there are ANY problems, please don't hesitate to add a new issue on GitHub or DM me on Discord. Have fun!
-
 
 #### Disclaimer
 If your account get's banned for sending lots of messages in a short amount of time, you take full responsibilty becasue you downloaded any of the aforementioned programs. Enjoy at your own risk.
