@@ -1,5 +1,18 @@
 # Text spammer
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f8b9505eb05842829a37d50ca669f6c7)](https://app.codacy.com/gh/ilikecheesybread/text-spammer?utm_source=github.com&utm_medium=referral&utm_content=ilikecheesybread/text-spammer&utm_campaign=Badge_Grade)
+
+## BADGES!!
+![Codacy Badge](https://img.shields.io/codacy/grade/39041de8660e49b78906fa214cf2f897)
+![shields.io](https://img.shields.io/discord/777924198655852555)
+![shields.io](https://img.shields.io/github/languages/code-size/ilikecheesybread/text-spammer)
+![shields.io is super cool](https://img.shields.io/github/downloads/ilikecheesybread/text-spammer/total)
+![shields.io](https://img.shields.io/github/license/ilikecheesybread/text-spammer)
+![shields.io](https://img.shields.io/github/watchers/ilikecheesybread/text-spammer?label=Watch%20me&style=social)
+![shields.io](https://img.shields.io/website?down_color=grey&down_message=Offline&up_message=Online&url=https%3A%2F%2Filikecheesybread.github.io%2Ftext-spammer%2F)
+![shields.io](https://img.shields.io/badge/Built%20with-love-red)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com)
+
 
 Hey, you're probably looking at this repo on GitHub Pages (ilikecheesybread.github.io) Sooo some of the pointers might not work out for you (you might want to visit [this page](https://github.com/ilikecheesybread/text-spammer/issues "this page") for some pre-made help) but I'll try to break this down as much as possible.
 
