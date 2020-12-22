@@ -11,7 +11,7 @@ FINALLY you've installed it, but now what?
 
 ### Running the software
 
-Right, this should be fairly straightforeward. Just find the program on your disk [usually in the `%PROGRAMDATA%` or `%APPDATA%` folders, just type them directly into the file explorer's address bar]] and run `script.py` on Python's IDLE. Wait around 10 seconds (allowing you to open Discord / WhatsApp Desktop) and each line will be typed.
+Right, this should be fairly straightforeward. Just find the program on your disk [usually in the `%PROGRAMDATA%` or `%APPDATA%` folders [just type them directly into the file explorer's address bar]] and run `script.py` on Python's IDLE. Wait around 10 seconds (allowing you to open Discord / WhatsApp Desktop) and each line will be typed.
 
 ### Variables
 
