@@ -9,10 +9,6 @@
 ![shields.io](https://img.shields.io/github/watchers/ilikecheesybread/text-spammer?label=Watch%20me&style=social)
 ![shields.io](https://img.shields.io/website?down_color=grey&down_message=Offline&up_message=Online&url=https%3A%2F%2Filikecheesybread.github.io%2Ftext-spammer%2F)
 ![shields.io](https://img.shields.io/badge/Built%20with-love-red)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com)
-
 
 Hey, you're probably looking at this repo on GitHub Pages (ilikecheesybread.github.io) Sooo some of the pointers might not work out for you (you might want to visit [this page](https://github.com/ilikecheesybread/text-spammer/issues "this page") for some pre-made help) but I'll try to break this down as much as possible.
 
