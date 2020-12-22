@@ -14,7 +14,7 @@ Hey, you're probably looking at this repo on GitHub Pages (ilikecheesybread.gith
 
 ## Installation
 
-First, you are gonna need some things - these will come in handy if I make any other Python programs - like Python. You can download it for free from [here.](https://www.python.org/downloads/ "here.") Once that's done, installation should be a breese. Just type `pip install PyAutoGUI` into your command prompt (Windows key and R, then type `cmd`) and finally download the latest release from [right here.](https://github.com/ilikecheesybread/text-spammer/releases "right here.")
+First, you are gonna need some things - these will come in handy if I make any other Python programs - using Python. You can download it for free from [here.](https://www.python.org/downloads/ "here.") Once that's done, installation should be a breese. Just type `pip install PyAutoGUI` into your command prompt (Windows key and R, then type `cmd`) and finally download the latest release from [right here.](https://github.com/ilikecheesybread/text-spammer/releases "right here.")
 
 FINALLY you've installed it, but now what?
 
