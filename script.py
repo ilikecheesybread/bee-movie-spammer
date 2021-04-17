@@ -3,11 +3,11 @@ import pyautogui, time
 
 print("Running... Open WhatsApp Web or other...")
 
-time.sleep(10)
-source = open("nevergonnagiveyouup.txt", 'r')
+time.sleep(5)
+source = open("beemovie.txt", 'r')
 
 for word in source:
     pyautogui.typewrite(word)
     print(word)
     pyautogui.press("enter")
-    #time.sleep(2)
+    time.sleep(1.1)
