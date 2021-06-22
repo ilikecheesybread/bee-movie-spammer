@@ -1,10 +1,10 @@
-#You need to have pyautogui installed.
+# You need to have pyautogui installed.
 import pyautogui, time
 
 print("Running... Open WhatsApp Web or other...")
 
 time.sleep(5)
-source = open("beemovie.txt", 'r')
+source = open("beemovie.txt", "r")
 
 for word in source:
     pyautogui.typewrite(word)
